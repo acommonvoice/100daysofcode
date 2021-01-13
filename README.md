@@ -16,10 +16,18 @@
 
 **Link(s) to work**: Made it to Lesson 8 in freecodecamp
 
-### Day 1: January 12th, 2021 Tuesday
+### Day 3: January 12th, 2021 Tuesday
 
 **Today's Progress**: I learned how to embed links into my project
 
 **Thoughts**: Now I'm starting to get into the good stuff, ran into a little wall and experienced my first coding frustration, I cooled off and figured it out. Oooo this will be fun
+
+**Link(s) to work**: 
+
+### Day 4: January 13th, 2021 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 **Link(s) to work**: 
