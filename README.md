@@ -18,7 +18,7 @@
 
 ### Day 1: January 12th, 2021 Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I learned how to embed links into my project
 
 **Thoughts**: Now I'm starting to get into the good stuff, ran into a little wall and experienced my first coding frustration, I cooled off and figured it out. Oooo this will be fun
 
